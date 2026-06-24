@@ -312,7 +312,7 @@ export default function IntroScreen({ onEnterPortal }: IntroScreenProps) {
               className="w-full sm:w-auto px-8 py-4 bg-[#2D4A30] text-[#FAF9F5] rounded-xl font-medium tracking-wide shadow-md hover:bg-[#385B3C] active:translate-y-0.5 transition-all flex items-center justify-center gap-2 group border border-[#1E2E20]/10"
               id="btn-conectar"
             >
-              <span>Comenzar mi Viaje (Acceso Libre)</span>
+              <span>Comenzar mi Viaje (Inscribirme)</span>
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </button>
           ) : (
