@@ -308,7 +308,7 @@ export default function IntroScreen({ onEnterPortal }: IntroScreenProps) {
         <div className="flex flex-col sm:flex-row justify-center items-center gap-4 max-w-md mx-auto">
           {!showForm ? (
             <button
-              onClick={() => setShowForm(true)}
+             onClick={() => window.open('https://mpago.la/1KrwVQP', '_blank')}
               className="w-full sm:w-auto px-8 py-4 bg-[#2D4A30] text-[#FAF9F5] rounded-xl font-medium tracking-wide shadow-md hover:bg-[#385B3C] active:translate-y-0.5 transition-all flex items-center justify-center gap-2 group border border-[#1E2E20]/10"
               id="btn-conectar"
             >
