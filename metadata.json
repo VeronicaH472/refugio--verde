@@ -1,0 +1,6 @@
+{
+  "name": "Refugio Verde",
+  "description": "Una experiencia guiada de 30 días guiada por el Método Alquimia Verde™ para crear tu rincón de bienestar y conectar contigo misma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
